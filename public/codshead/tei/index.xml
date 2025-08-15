@@ -18,7 +18,7 @@
 			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F128256.tif"/>
 		</surface>
 	</facsimile>
-	<sourceDoc xml:id="CookerybookofAnnGoodenough,ca">
+	<sourceDoc xml:id="codshead">
 		<surface facs="#f000">
 			<line>﻿16</line>
 			<line>To Boyle A Cods Head X</line>

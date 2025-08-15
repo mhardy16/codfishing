@@ -1,24 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header">
-		<fileDesc>
-			<titleStmt>
-				<title>page 16 – page 17</title>
-			</titleStmt>
-			<publicationStmt>
-				<p/>
-			</publicationStmt>
-			<sourceDesc>
-				<p/>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
-	<facsimile sameAs="https://digitalcollections.folger.edu/node/35387/manifest-single" xml:id="facs-1">
-		<surface xml:id="f000" ulx="0" uly="0" lrx="6927" lry="4302" sameAs="https://digitalcollections.folger.edu/node/35387/canvas/138005">
-			<label>page 16 – page 17</label>
-			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-07%2F128256.tif"/>
-		</surface>
-	</facsimile>
-	<sourceDoc xml:id="codshead">
+<sourceDoc xmlns="http://www.tei-c.org/ns/1.0" xml:id="codshead">
 		<surface facs="#f000">
 			<line>﻿16</line>
 			<line>To Boyle A Cods Head X</line>
@@ -69,4 +49,3 @@
 			<line>butter and fine suger</line>
 		</surface>
 	</sourceDoc>
-</TEI>
