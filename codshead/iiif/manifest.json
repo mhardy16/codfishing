@@ -56,7 +56,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://mhardy16.github.io/codfishing//codshead/tei/CookerybookofAnnGoodenough,ca/f000.xml",
+								"id": "https://mhardy16.github.io/codfishing//codshead/tei/codshead/f000.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -69,7 +69,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://mhardy16.github.io/codfishing//codshead/html/CookerybookofAnnGoodenough,ca/f000.html",
+								"id": "https://mhardy16.github.io/codfishing//codshead/html/codshead/f000.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
