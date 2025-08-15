@@ -3,7 +3,7 @@
   "documentName": "codfishing",
   "iiifManifest": "/codfishing/codshead/iiif/manifest.json",
   "transcriptionTypes": {
-    "codshead": "Transcription"
+    "codshead": "transcription"
   },
   "viewerUrl": "codfishing"
 }
